@@ -7,6 +7,8 @@ Legacy-Mart is a full-stack e-commerce application consisting of:
 • Checkout & Payment Status Flow
 • Order Timeline & Tracking
 • User Order History
+• Customer Service operations
+• Admin Service operations
 
 # This project is structured as two separate modules:
 ├── frontend/   → React Web App
@@ -79,12 +81,12 @@ Legacy-Mart is a full-stack e-commerce application consisting of:
 • Backend — Run Locally
   >>> mvn clean install
   >>> mvn spring-boot:run
-• Server runs at: http://localhost:8080
+• Server runs at: http://localhost:port_number
 
 • Frontend — Run Locally
   >>> npm install
   >>> npm run dev
-• Server runs at: http://localhost:5173
+• Server runs at: http://localhost:port_number
 
 # License:
 This project is for learning & personal development.
