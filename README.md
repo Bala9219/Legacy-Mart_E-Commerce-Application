@@ -1,5 +1,6 @@
 ## 🛍️ Legacy-Mart — E-Commerce Application
 Legacy-Mart is a full-stack e-commerce application consisting of:
+The architecture of this project is Monolithic
 
 • Frontend — React + Vite
 • Backend — Java + Spring Boot (REST APIs, JPA, Hibernate, MySQL)
